@@ -19,5 +19,5 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GHCR_TOKEN }}
           registry: ghcr.io
-          repository: netology-code/necommerce-backend
+          repository: dennee/necommerce-backend
           tag_with_ref: true
